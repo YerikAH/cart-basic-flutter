@@ -12,6 +12,6 @@ All files are linked by `home_widget.dart` file, We can change the name, image, 
 - Flutter
 - Dart
 
-## Screenshots
+## Screenshots 📱
 
 <img src="./assets/índice.jpg" width="375" alt="an image" />
